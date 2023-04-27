@@ -24,7 +24,7 @@ myList += `<li>
            </li>`
 
 
-  //ulEl.innerHTML += "<li>" + myLeads[i] + "</li>" // one method, below is the second one
+  //ulEl.innerHTML += "<li>" + myLeads[i] + "</li>" // one method, below is the second one.
   /*const li = document.createElement("li")
   li.textContent = myLeads[i]
   ulEl.append(li) */
